@@ -31,7 +31,7 @@ def binary_search(L: list, v: Any) -> int:
     
     
     
-print("hel   
+print("hell   
     
     
     
