@@ -32,7 +32,7 @@ def binary_search(L: list, v: Any) -> int:
     
     
 print("hello") 
-p
+pr
     
     
     
