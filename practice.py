@@ -31,15 +31,13 @@ def binary_search(L: list, v: Any) -> int:
     
     
     
+p    
     
     
     
     
     
-    
-    
-    
-    
+
     
     
     
