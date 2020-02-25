@@ -27,6 +27,7 @@ def binary_search(L: list, v: Any) -> int:
   if __name__ == '__main__':
     
     
+    
     import doctest
     doctest.testmod()
     
