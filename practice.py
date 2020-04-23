@@ -26,6 +26,7 @@ def binary_search(L: list, v: Any) -> int:
 
 
 
+
   
     
   if __name__ == '__main__':
